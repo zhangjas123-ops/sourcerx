@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none"><rect width="64" height="64" rx="16" fill="#0071e3"/><path d="M35 15H22a4 4 0 0 0-4 4v26a4 4 0 0 0 4 4h20a4 4 0 0 0 4-4V26L35 15Z" stroke="white" stroke-width="3" stroke-linejoin="round"/><path d="M35 15v11h11M25 34h14M25 41h10" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64.00 64.00" width="64" height="64" role="img" aria-label="SourceRx"><title>SourceRx</title><rect width="64.00" height="64.00" rx="14" fill="#4361EE"/><g transform="translate(5.900 6.400) scale(0.8000)"><clipPath id="base-sonblue"><rect x="0" y="0" width="64" height="57"/></clipPath>
+<g fill="none" stroke-linejoin="miter" stroke-linecap="butt">
+  <path stroke="#FFFFFF" stroke-width="6.5" d="M14 7V57"/>
+  <path stroke="#FFFFFF" stroke-width="6.5" d="M10.75 10.25H30A10.75 10.75 0 0 1 30 31.75H14"/>
+  <path stroke="#FFFFFF" stroke-width="6.5" clip-path="url(#base-sonblue)" d="M26 31.75L48.5 59"/>
+  <path stroke="#FFFFFF" stroke-width="6" clip-path="url(#base-sonblue)" d="M24.5 58.5L51.5 30"/>
+  <path stroke="#FFFFFF" stroke-width="6" d="M42.5 30H51.5V39"/>
+</g></g></svg>
